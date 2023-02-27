@@ -1,0 +1,2 @@
+;Plot Start;Plot end;Injection time at Sun;Background start;Background end;Bg distance from window [min];Bg period [min];Travel distance first slope [AU];Travel distance second slope [AU];Fixed window [min];data type;Averaging mode;Averaging [min];Masking;Ion contamination corection;Distance of s/c [AU];Length of Parker Spiral [AU];Travel time 4keV [min];Traveltime 10MeV [min];Traveltimeof light at distance D [min]
+0;2021-12-04-0400;2021-12-04-1100;2021-12-04-0710;;;120;60;1.0;;60;l2;mean;2;True;True;1.0;1.1605028475764896;77.5878583233683;9.663032912445948;8.316746396768927

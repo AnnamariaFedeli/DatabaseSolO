@@ -1,0 +1,2 @@
+;Plot Start;Plot end;Injection time;Background start;Background end;Bg distance from window [min];Bg period [min];Travel distance first slope [AU];Travel distance second slope [AU];Fixed window [min];data type;Averaging mode;Averaging [min];Masking;Ion contamination corection
+0;2020-11-19-0200;2020-11-19-1000;2020-11-19-0530;;;180;90;0.95;;90;l2;mean;5;True;True
